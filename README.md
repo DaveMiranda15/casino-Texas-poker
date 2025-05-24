@@ -9,7 +9,7 @@
 An online poker game server powered by redis, node.js and socket.io
 
 ![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/4_14.png) ![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/3_14.png)
-![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/2_14.png) ![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/) 
+![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/2_14.png) ![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/ace diamond.pg) 
   
 Game rules supported:
 - [x] Chat Room (聊天室)
